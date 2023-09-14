@@ -17,3 +17,8 @@ UI Clone - Pinterest (Homepage)
 2. Install `Live Server` and `Live Sass Compiler` extension
 3. Right click `index.html` > `Open with Live Server`
 4. Access the **generated address** in your browser 🚀
+
+The project can be viewed at the link below:
+
+
+https://pinterest-home.netlify.app/
